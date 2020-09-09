@@ -1,0 +1,18 @@
+- All teams can work from home apart from the London Helpline team
+- This is because the existing telephony system does not allow for the Helpline team to work away from the office
+- Specialist teams mentioned that the Helpline send enquiries to them that they shouldn’t
+- 3 teams would like the Helpline to give an enquiry more thought before referring it across
+- Concerns that the Helpline is like a switchboard and other teams are having to do the same
+- Currently technology does not enable effective team collaboration i.e. Helpline chasing for responses from specialist teams that have already been done as there is nothing in K2 flagging when an enquiry has been resolved
+- There is a strong need for a single view of a customer’s enquiry
+- Current technology cannot meet future needs of the helpline such as multichannel communications in a single place e.g. part of a query dealt with by phone and another time it is followed up by email, there is no way of tracking both forms of communication in one place
+- Helpline team and the tooling used has improved significantly under the new team leadership
+- Specialist teams mentioned that the IVR options are not working well for customers as they come through to the the wrong team but there is work currently being done on this
+- It is not easy to find out who is needed to resolve an enquiry as Delve doesn’t allow staff to search for others by job title or area
+- Transactions team would like more support in their new roles to answer enquiries effectively
+- No clear way of dealing with an emergency enquiry
+- No process or direction on what to do when teams are not available to take calls
+- Currently no data on call abandonment rates, missed calls, call waiting times, IVR option most selected and these would prove useful when looking at team performance and customer satisfaction
+- Reporting is currently being done but this could be optimised even further if there is a tool with more data capabilities
+- For both specialist teams and Helpline teams, contact mostly comes from consumers and Food Business Operators
+- Many enquiries are not being resolved within the 20 day Service Level Agreement (SLA)

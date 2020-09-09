@@ -1,0 +1,9 @@
+The technology used to support the FSA UK Helpline team has been in place a number of years and is fragmented. Users straddle a number of systems / applications during the enquiry lifecycle and enquiry and operational data, where available, is split across the multiple systems. 
+
+Whilst the Helpline team work hard to deliver a high and consistent standard of service to both internal and external customers, current technology does not support the team as well as it might in performing their day to day activities and user experience is sub optimum due to the number of applications and manual processes involved. The risk, both now and in future, is that the fragmented technology underpinning the service causes delays in providing responses, reduces FSA's ability for first contact resolution and restricts the Helpline and Specialist teams ability to collaborate.
+
+With data being split across multiple systems, management information (MI) is cumbersome to access, limited in granularity and is fundamental MI that is simply not available (such measuring service levels i.e. the percentage of enquiries handled within the 20 day SLA). Additionally, current technology does not support effective dissemination of MI to key stakeholders around the business.
+
+The individual systems and applications used by the Helpline team - each of which providing specific capabilities required during the enquiry lifecycle - can be viewed here https://github.com/notbinary/fsa-hccc/wiki/Technology-assets. 
+
+The focus of this Discovery is the UK Helpline team and how the introduction of more modern technology will mitigate some of the current challenges faced. Wherever possible, and at the request of FSA, consideration has been given to the extensibility of those technologies so that it has the potential to provide a solid foundation which the FSA can extend to those other teams in future, should they so wish. 
